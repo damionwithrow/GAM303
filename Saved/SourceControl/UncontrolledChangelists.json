@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ScryingEye/Content/Maps/Test.umap",
+				"D:/ScryingEye/Content/Inputs/Mapping_Player.uasset",
+				"D:/ScryingEye/Content/Interactables/BP_CollectablePickup.uasset",
+				"D:/ScryingEye/Content/Inputs/Input_Interact.uasset",
+				"D:/ScryingEye/Content/Player/BP_GameMode.uasset",
+				"D:/ScryingEye/Content/Interactables/BP_PhysicsPickup.uasset",
+				"D:/ScryingEye/Content/Player/BP_PlayerChar.uasset",
+				"D:/ScryingEye/Content/Player/BP_PlayerCont.uasset",
+				"D:/ScryingEye/Content/Inputs/Input_Jump.uasset",
+				"D:/ScryingEye/Content/Inputs/Input_Look.uasset",
+				"D:/ScryingEye/Content/Inputs/Input_Movement.uasset",
+				"D:/ScryingEye/Content/Interface/Interface_Interact.uasset"
+			]
+		}
+	]
+}
