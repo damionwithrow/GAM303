@@ -16,7 +16,29 @@
 				"D:/ScryingEye/Content/Inputs/Input_Jump.uasset",
 				"D:/ScryingEye/Content/Inputs/Input_Look.uasset",
 				"D:/ScryingEye/Content/Inputs/Input_Movement.uasset",
-				"D:/ScryingEye/Content/Interface/Interface_Interact.uasset"
+				"D:/ScryingEye/Content/Interface/Interface_Interact.uasset",
+				"D:/ScryingEye/Content/Interactables/AnimatedInteratables/BP_Door.uasset",
+				"D:/ScryingEye/Content/Enemy/Turret/BP_Turret.uasset",
+				"D:/ScryingEye/Content/Enemy/Turret/BP_TurretProjectile.uasset",
+				"D:/ScryingEye/Content/Interactables/AnimatedInteratables/BP_Button.uasset",
+				"D:/ScryingEye/Content/Interactables/MAT_Color.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/Box_2127A8AE.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/Box_85BB2EF3.uasset",
+				"D:/ScryingEye/Content/WorldObjects/SM_Window.uasset",
+				"D:/ScryingEye/Content/WorldObjects/SM_Wall.uasset",
+				"D:/ScryingEye/Content/WorldObjects/SM_DoorWay.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/Box_1F1D9AC9.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/Box_22B4C88C.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/Box_D95BF014.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/Cube1.uasset",
+				"D:/ScryingEye/Content/Enemy/Guard/BP_Guard.uasset",
+				"D:/ScryingEye/Content/Enemy/Guard/NewBlueprint.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/SM_Wall.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/SM_DoorWay.uasset",
+				"D:/ScryingEye/Content/Maps/_GENERATED/damio/SM_Window.uasset",
+				"D:/ScryingEye/Content/SM_Window.uasset",
+				"D:/ScryingEye/Content/SM_Wall.uasset",
+				"D:/ScryingEye/Content/SM_DoorWay.uasset"
 			]
 		}
 	]
